@@ -1,4 +1,4 @@
-```markdown
+
 # FTP Flask Demo
 
 ## Overview
@@ -36,7 +36,7 @@ This project is a Flask-based web application that interacts with an FTP server.
    ```bash
    git clone https://github.com/username/FTP-Flask-Demo.git
    cd FTP-Flask-Demo
-   ```
+   
 
 2. **Create a Virtual Environment**
 
@@ -209,4 +209,3 @@ If you'd like to contribute to this project, please fork the repository and crea
 
 For any questions or issues, please contact the repository owner at `manojhankare2@gmail.com`.
 ```
-
